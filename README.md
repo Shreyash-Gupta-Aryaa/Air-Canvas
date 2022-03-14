@@ -16,4 +16,4 @@ Libraries used:
 1. Open CV
 2. Numpy
 
-No dataset is used as there is no training of model neede in this project. It run live.
+This project is made entirely on Python. No dataset is used as there is no training of model neede in this project. It runs live.
